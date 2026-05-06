@@ -1,20 +1,35 @@
-# Im [siqnole](https://siqnole.dev)!
+# hi im siqnole
+> 17 year old software senior pursuing machine learning
+> 
+![status](https://status.siqnole.dev/api/badge/status) | ![reading](https://read.siqnole.dev/api/stats/user/siq) | ![my library](https://read.siqnole.dev/api/stats/badge)
+![card](https://read.siqnole.dev/api/stats/user/will/card)
 
-I like things that are free, privacy focused (literally the bare minimum), and follow unix philosophy,,,
+i build things that don't exist yet, or do and they're paid, or do and they're bad.
 
-my goal with the software and the apps i build is to create a temple of free knowledge and media for all, 
-i never grew up with streaming services, i never grew up with privilege, i learned to code to solve problems, not to create them
-i believe in an ethical future for software, and I believe all ai systems require human intervention at one point or another.
-i create alot of the sub-sites on my website for my friends, for my education, or just if something doesnt exist (or it does and its paid) ill make it.
+self-taught. i learned to code to solve problems, not to create them. somehow that's rare now.
 
-i code for fun, i love what i do, and somehow thats rare in this slop-conomy we are currently in.
+---
 
-## I build systems I like
-> and even fix the ones I don't...
+## what i actually build
 
-Im interested in machine learning, data science, asyncronous projects involving long term session stability, discord bots, extensions, swe, cloud / sysadmin work.
+**nightIOwl** — self-hosted reading platform. PDF, EPUB, CBZ/CBR. dark purple, no tracking, no email field (not optional, not hidden, not in the schema). device pairing via 6-char codes, cross-device progress sync, metadata from Open Library + ComicVine, all server-side. built because every alternative either phones home or costs money.
 
+**draw** — collaborative whiteboard with LaTeX rendering, Desmos integration, and websocket live sync. basically excalidraw if it was actually good for math. built in a day.
 
-> moved to https://codeberg.org/siq
-> github is slop, too many outages, too many ai features nobody asked for, you can catch me still pushing commits, but i dont actively use this platform for anything useful.
-> microslop ruining another platform 🫠
+**arcade** — browser-based retro emulation hub. NES, SNES, GBA, N64. automated box art enrichment. no account, just play.
+
+everything runs on subdomains of [siqnole.dev](https://siqnole.dev), managed with systemd, deployed with podman.
+
+---
+
+## interests
+
+machine learning / data science — async systems and long-term session stability — discord bots — browser extensions — sysadmin / cloud — swe
+
+---
+
+## find me
+
+> i moved to **[codeberg.org/siq](https://codeberg.org/siq)**
+> still pushing commits here but i don't actively use this platform for anything useful
+> microslop ruined it 🫠
