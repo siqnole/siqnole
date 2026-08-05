@@ -1,7 +1,6 @@
 # hi im siqnole
-> 17 year old software senior pursuing machine learning
 
-[![status](https://status.siqnole.dev/api/badge/status)  ![reading](https://read.siqnole.dev/api/stats/user/will)  ![my library](https://read.siqnole.dev/api/stats/badge)](https://read.siqnole.dev)
+![reading](https://read.siqnole.dev/api/stats/user/will)  ![my library](https://read.siqnole.dev/api/stats/badge)](https://read.siqnole.dev)
 ![card](https://read.siqnole.dev/api/stats/user/will/card)
 
 i build things that don't exist yet, or do and they're paid, or do and they're bad.
