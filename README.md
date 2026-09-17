@@ -3,4 +3,7 @@
 
 
 currently a student
+
 <a href="https://instagram.com/siqnole/"><img src="https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp" width=25 height=25></a>
+<a href="https://siqnole.dev">🕸️</a>
+<a href="https://read.siqnole.dev">📖</a>
